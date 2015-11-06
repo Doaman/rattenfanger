@@ -1,2 +1,2 @@
 # rattenfanger
-Ratten Command Mouse.
+Ratten Commands Mouse.
